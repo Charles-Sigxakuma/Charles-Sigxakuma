@@ -18,7 +18,7 @@ As a Computer Science student, I have developed a strong foundation in various a
 
 ## Experience
 
-- **Work Integrated Learning Program at Spacebar Solutions** *(Present)*
+- **Work Integrated Learning Program at Spacebar Solutions
   - I am eager to apply my academic knowledge in a practical setting and contribute to real-world projects.
 
 ## Projects Showcase
